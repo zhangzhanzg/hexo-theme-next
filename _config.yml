@@ -303,7 +303,14 @@ baidu_analytics: '4ce959dfb00c0308cdef3fb46d1aaebf'
 #duoshuo_shortname:
 
 # Disqus
+<<<<<<< HEAD
 disqus_shortname: 'zhangzhan'
+=======
+disqus:
+  enable: false
+  shortname:
+  count: true
+>>>>>>> iissnan/master
 
 # Hypercomments
 #hypercomments_id:
@@ -484,6 +491,9 @@ fancybox: true
 # Canvas-nest
 canvas_nest: false
 
+#three_waves
+three_waves: false
+
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
 # For example
@@ -534,6 +544,10 @@ vendors:
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
+  
+  #three
+  three:
+  three_waves:
 
 
 
