@@ -303,14 +303,10 @@ baidu_analytics: '4ce959dfb00c0308cdef3fb46d1aaebf'
 #duoshuo_shortname:
 
 # Disqus
-<<<<<<< HEAD
-disqus_shortname: 'zhangzhan'
-=======
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: 'zhangzhan'
   count: true
->>>>>>> iissnan/master
 
 # Hypercomments
 #hypercomments_id:
